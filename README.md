@@ -1,5 +1,7 @@
 # node-jamf [![Build Status](https://travis-ci.org/mapbox/node-jamf.svg?branch=master)](https://travis-ci.org/mapbox/node-jamf) [![npm](https://img.shields.io/npm/v/jamf.svg)](https://www.npmjs.com/package/jamf)
 
+**NOTE: This repository was forked from mapbox/node-jamf, which has since been archived. This repository will continue to live and be maintained by @trevorspecht**
+
 A lightweight Node.js wrapper for Jamf Pro's JSS REST API.
 
 ## Scope
